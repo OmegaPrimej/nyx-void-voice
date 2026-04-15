@@ -1,0 +1,9 @@
+transformers>=4.35.0
+torch>=2.0.0
+textual>=0.40.0
+datasets>=2.14.0
+peft>=0.6.0
+accelerate>=0.24.0
+# piper-tts is optional; install separately if desired
+# espeak is a system dependency: apt install espeak / pkg install espeak
+# sox is a system dependency: apt install sox / pkg install sox
